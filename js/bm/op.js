@@ -3,7 +3,7 @@
   with (oWindow.document) {
     write("<html>");
     write("<head>");
-    write("<title>BABYMETAL Song Sort: Raw Text Results<\/title>");
+    write("<title>BABYMETAL Costume Sorter: Raw Text Results<\/title>");
     write("<style>");
 		write("body { background-color: #000; color: #7C0919; font-family: \"Open Sans\",\"Helvetica Neue\",Helvetica,Arial,\"游ゴシック\",YuGothic,\"ヒラギノ角ゴ ProN W3\",\"Hiragino Kaku Gothic ProN\",\"メイリオ\",Meiryo,sans-serif; font-size: 15px; }");
 		write("<\/style>");
