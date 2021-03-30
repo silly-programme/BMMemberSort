@@ -107,7 +107,7 @@ var ary_CharacterData = [
   
   [1, "Babybones (Babybones are eternal)",      [0,0,0,0,1,0,0,0], "bmcost/support/Babybones.png"],
   [1, "Kami band (2012-2017)",                  [0,0,0,0,1,0,0,0], "bmcost/support/2012_2017_Kami.jpeg"],
-  [1, "Sisterbones (2012-2014)",                [0,0,0,0,1,0,0,0], "bmcost/support/Sisterbones.jpg"],
+  [1, "Sisterbones (2012-2014)",                [0,0,0,0,1,0,0,0], "bmcost/support/Sisterbones.png"],
   [1, "Su double for Akatsuki (Legend Z)",      [0,0,0,0,1,0,0,0], "bmcost/support/2013_Sugivingherdoubleashoulderrub.png"],
   [1, "Wolf dancers (Legend S In The Name Of)", [0,0,0,0,1,0,0,0], "bmcost/support/2017_LegendS_dancers.png"],
   [1, "Kami band (Legend S)",                   [0,0,0,0,1,0,0,0], "bmcost/support/2017_LegendS_Kamis.png"],
