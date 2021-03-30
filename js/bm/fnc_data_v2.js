@@ -27,11 +27,11 @@ var maxRows = 20;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
 var ary_TitleData = [
- "Concerts",
- "Song-specific & finales",
- "Alternate tour versions",
- "Photoshoots",
- "Support personnel"
+ "Concerts (19)",
+ "Song-specific & finales (28)",
+ "Alternate tour versions (4)",
+ "Photoshoots (9)",
+ "Support personnel (11)"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
