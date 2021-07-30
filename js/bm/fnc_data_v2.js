@@ -67,7 +67,7 @@ var ary_CharacterData = [
   [1, "Legend S ~ Baptism XX",                                     [1,0,0,0,0,0,0,0], "bmshow/Legend_S.jpg"],
   [1, "Dark Night Carnival",                                       [1,0,0,0,0,0,0,0], "bmshow/Dark_Night_Carnival.jpg"],
   [1, "BABYMETAL Awakens ~ The Sun Also Rises (Yokohama 2019)",    [1,0,0,0,0,0,0,0], "bmshow/Yoko19.jpg"],
-  [1, "BABYMETAL Arises ~ Beyond the Moon (Legend M)",             [1,0,0,0,0,0,0,0], "bmshow/Legend_M.jpg"],
+  [1, "BABYMETAL Arises ~ Beyond the Moon (Legend M)",             [1,0,0,0,0,0,0,0], "bmshow/LEGEND_M.jpg"],
   [1, "Live at the Forum (2019)",                                  [1,0,0,0,0,0,0,0], "bmshow/LIVE_AT_THE_FORUM.jpg"],
   [1, "Metal Galaxy World Tour in Japan",                          [1,0,0,0,0,0,0,0], "bmshow/MGWTIJ.jpg"],
   [1, "Legend Metal Galaxy day 1",                                 [1,0,0,0,0,0,0,0], "bmshow/LMG_day1.jpg"],
