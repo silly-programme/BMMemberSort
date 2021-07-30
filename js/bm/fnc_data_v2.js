@@ -27,10 +27,10 @@ var maxRows = 20;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 2;
 var ary_TitleData = [
- "Blu-ray shows (32)",
- "Festivals (27)",
- "Other pro-shot shows (29)",
- "Shows with no pro-shot (...)"
+ "Blu-ray shows (32)"
+// ,"Festivals (27)"
+// ,"Other pro-shot shows (29)"
+// ,"Shows with no pro-shot (...)"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
