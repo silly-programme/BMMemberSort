@@ -1,4 +1,4 @@
-# Babymetal costume sorter
+# Babymetal member sorter
 
 Original:
 http://curiousmidnight.github.io/
