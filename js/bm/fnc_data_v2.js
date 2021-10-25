@@ -27,10 +27,10 @@ var maxRows = 20;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 2;
 var ary_TitleData = [
- "Blu-ray shows (32)"
-// ,"Festivals (27)"
-// ,"Other pro-shot shows (29)"
-// ,"Shows with no pro-shot (...)"
+ "Core members"
+ //,"Backup dancers"
+ //,"Kamis"
+ //,"Staff"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
@@ -40,38 +40,10 @@ var ary_TitleData = [
 //   "キャラクター名", "画像（空白の場合、キャラクター名が使用されます）"
 //                                      [1,2,3,4,5,6,7,8,9,
 var ary_CharacterData = [
-  [1, "Legend I",                                                  [1,0,0,0,0,0,0,0], "bmshow/Legend_I.jpg"],
-  [1, "Legend D",                                                  [1,0,0,0,0,0,0,0], "bmshow/Legend_D.jpg"],
-  [1, "Legend Z",                                                  [1,0,0,0,0,0,0,0], "bmshow/Legend_Z.jpg"],
-  [1, "Legend 1999",                                               [1,0,0,0,0,0,0,0], "bmshow/Legend_1999.jpg"],
-  [1, "Legend 1997",                                               [1,0,0,0,0,0,0,0], "bmshow/Legend_1997.jpg"],
-  [1, "Budokan Red Night ~ Legend Giant Corset Festival",          [1,0,0,0,0,0,0,0], "bmshow/Budokan_Red_Night.jpg"],
-  [1, "Budokan Black Night ~ Legend DOOMSDAY",                     [1,0,0,0,0,0,0,0], "bmshow/Budokan_Black_Night.jpg"],
-  [1, "Live in London, The Forum (2014)",                          [1,0,0,0,0,0,0,0], "bmshow/London_Forum.jpg"],
-  [1, "WORLD TOUR 2014 APOCALYPSE (Makuhari Messe 2014)",          [1,0,0,0,0,0,0,0], "bmshow/MM2014.jpg"],
-  [1, "Live in London, O2 Academy Brixton",                        [1,0,0,0,0,0,0,0], "bmshow/O2_Academy_Brixton.jpg"],
-  [1, "Legend 2015 ~ New Year Fox Festival (SSA 2015)",            [1,0,0,0,0,0,0,0], "bmshow/New_Year_Fox_Festival.jpg"],
-  [1, "Apocrypha ~ The Red Mass",                                  [1,0,0,0,0,0,0,0], "bmshow/Red_Mass_.jpg"],
-  [1, "Apocrypha ~ The Black Mass",                                [1,0,0,0,0,0,0,0], "bmshow/Black_Mass.jpg"],
-  [1, "Kyodai Tenkaichi Metal Budokai (Makuhari Messe 2015)",      [1,0,0,0,0,0,0,0], "bmshow/MM2015.jpg"],
-  [1, "The Final Chapter of Trilogy (Yokohama 2015)",              [1,0,0,0,0,0,0,0], "bmshow/Yoko15.jpg"],
-  [1, "Live at Wembley",                                           [1,0,0,0,0,0,0,0], "bmshow/Wembley.jpg"],
-  [1, "Tokyo Dome Red Night",                                      [1,0,0,0,0,0,0,0], "bmshow/Tokyo_Dome_Red_Night.jpg"],
-  [1, "Tokyo Dome Black Night",                                    [1,0,0,0,0,0,0,0], "bmshow/Tokyo_Dome_Black_Night.jpg"],
-  [1, "Black Fox Festival",                                        [1,0,0,0,0,0,0,0], "bmshow/Black_Fox_Festival.jpg"],
-  [1, "Red Fox Festival",                                          [1,0,0,0,0,0,0,0], "bmshow/Red_Fox_Festival.jpg"],
-  [1, "Gold Fox Festival",                                         [1,0,0,0,0,0,0,0], "bmshow/Gold_Fox_Festival.jpg"],
-  [1, "Silver Fox Festival",                                       [1,0,0,0,0,0,0,0], "bmshow/Silver_Fox_Festival.jpg"],
-  [1, "White Fox Festival",                                        [1,0,0,0,0,0,0,0], "bmshow/White_Fox_Festival.jpg"],
-  [1, "Big Fox Festival",                                          [1,0,0,0,0,0,0,0], "bmshow/Big_Fox_Festival.jpg"],
-  [1, "Legend S ~ Baptism XX",                                     [1,0,0,0,0,0,0,0], "bmshow/Legend_S.jpg"],
-  [1, "Dark Night Carnival",                                       [1,0,0,0,0,0,0,0], "bmshow/Dark_Night_Carnival.jpg"],
-  [1, "BABYMETAL Awakens ~ The Sun Also Rises (Yokohama 2019)",    [1,0,0,0,0,0,0,0], "bmshow/Yoko19.jpg"],
-  [1, "BABYMETAL Arises ~ Beyond the Moon (Legend M)",             [1,0,0,0,0,0,0,0], "bmshow/LEGEND_M.jpg"],
-  [1, "Live at the Forum (2019)",                                  [1,0,0,0,0,0,0,0], "bmshow/LIVE_AT_THE_FORUM.jpg"],
-  [1, "Metal Galaxy World Tour in Japan",                          [1,0,0,0,0,0,0,0], "bmshow/MGWTIJ.jpg"],
-  [1, "Legend Metal Galaxy day 1",                                 [1,0,0,0,0,0,0,0], "bmshow/LMG_day1.jpg"],
-  [1, "Legend Metal Galaxy day 2",                                 [1,0,0,0,0,0,0,0], "bmshow/LMG_day2.jpg"],
+  [1, "SU-METAL",                                                  [1,0,0,0,0,0,0,0], "bmppl/Su.png"],
+  [1, "KOBAMETAL",                                                 [1,0,0,0,0,0,0,0], "bmppl/Koba.jpg"],
+  [1, "YUIMETAL",                                                  [1,0,0,0,0,0,0,0], "bmppl/Yui.png"],
+  [1, "MOAMETAL",                                                  [1,0,0,0,0,0,0,0], "bmppl/Moa.jpg"],
   
   [1, "2nd Idol Yokocho Festival (2012)",                   [0,1,0,0,0,0,0,0], "bmcost/special/2010_DDM_MV.png"],
   [1, "Anime Festival Asia (Singapore 2012)",           [0,1,0,0,0,0,0,0], "bmcost/special/2011_IDZ_MV_black.png"],
