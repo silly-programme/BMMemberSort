@@ -412,7 +412,8 @@ function fnc_CountUp(int_Select) {
    if (int_Select == 0) {
       int_LeftID++;
    } else {
-      int_RightID++;
+      //int_RightID++;
+	int_LeftID++;
    }
 
    int_RecordID++;
