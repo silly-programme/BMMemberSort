@@ -459,18 +459,10 @@ function fnc_ShowData() {
 
 
   ary_TempData = [
-    [1, "Babymetal Death", [1,0,0,0,0,0,0,0], "bmsong/bm01.jpg"],
-    [1, "Megitsune", [1,0,0,0,0,0,0,0], "bmsong/bm02.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm02.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm02.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm03.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm03.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm03.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm03.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm03.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm03.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm03.jpg"],
-    [1, "Akatsuki", [1,0,0,0,0,0,0,0], "bmsong/bm03.jpg"]
+    [1, "SU-METAL", [1,0,0,0,0,0,0,0], "bmppl/Su.png"],
+    [1, "KOBAMETAL", [1,0,0,0,0,0,0,0], "bmppl/Koba.jpg"],
+    [1, "YUIMETAL", [1,0,0,0,0,0,0,0], "bmppl/Yui.png"],
+    [1, "MOAMETAL", [1,0,0,0,0,0,0,0], "bmppl/Moa.jpg"]
   ];
 
       for (i=0; i<ary_TempData.length; i++) {
