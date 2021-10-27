@@ -44,6 +44,9 @@ var ary_CharacterData = [
   [1, "KOBAMETAL",                                                 [1,0,0,0,0,0,0,0], "bmppl/Koba.jpg"],
  
   [1, "YUIMETAL",                                                  [0,1,0,0,0,0,0,0], "bmppl/Yui.png"],
-  [1, "MOAMETAL",                                                  [0,1,0,0,0,0,0,0], "bmppl/Moa.jpg"]
+  [1, "MOAMETAL",                                                  [0,1,0,0,0,0,0,0], "bmppl/Moa.jpg"],
+  [1, "Riho",                                                      [0,1,0,0,0,0,0,0], "bmppl/Riho.png"],
+  [1, "Momoko",                                                    [0,1,0,0,0,0,0,0], "bmppl/Momoko.png"],
+  [1, "Kano",                                                      [0,1,0,0,0,0,0,0], "bmppl/Kano.png"]
   
 ];
