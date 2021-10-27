@@ -28,7 +28,7 @@ var maxRows = 20;
 var int_Colspan = 2;
 var ary_TitleData = [
  "Core members"
- //,"Backup dancers"
+ ,"Backup dancers"
  //,"Kamis"
  //,"Staff"
 ];
@@ -42,8 +42,9 @@ var ary_TitleData = [
 var ary_CharacterData = [
   [1, "SU-METAL",                                                  [1,0,0,0,0,0,0,0], "bmppl/Su.png"],
   [1, "KOBAMETAL",                                                 [1,0,0,0,0,0,0,0], "bmppl/Koba.jpg"],
-  [1, "YUIMETAL",                                                  [1,0,0,0,0,0,0,0], "bmppl/Yui.png"],
-  [1, "MOAMETAL",                                                  [1,0,0,0,0,0,0,0], "bmppl/Moa.jpg"],
+ 
+  [1, "YUIMETAL",                                                  [0,1,0,0,0,0,0,0], "bmppl/Yui.png"],
+  [1, "MOAMETAL",                                                  [0,1,0,0,0,0,0,0], "bmppl/Moa.jpg"],
   
   [1, "2nd Idol Yokocho Festival (2012)",                   [0,1,0,0,0,0,0,0], "bmcost/special/2010_DDM_MV.png"],
   [1, "Anime Festival Asia (Singapore 2012)",           [0,1,0,0,0,0,0,0], "bmcost/special/2011_IDZ_MV_black.png"],
