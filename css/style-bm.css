@@ -38,6 +38,11 @@ img {
   max-width: 500px;
 }
 
+resTableR img {
+    max-width: 100px !important;
+    max-height: 100px !important;
+}
+
 #btn-rawtext {
 	cursor: pointer;
 	background-color: #7C0919;
