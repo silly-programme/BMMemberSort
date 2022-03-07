@@ -56,6 +56,7 @@ var ary_CharacterData = [
   [1, "Leda",                                                       [0,0,1,0,0,0,0,0], "bmppl/Leda.png"],
   [1, "ISAO",                                                       [0,0,1,0,0,0,0,0], "bmppl/ISAO.png"],
   [1, "Yuya",                                                       [0,0,1,0,0,0,0,0], "bmppl/Yuya.png"],
+  [1, "Yusuke",                                                     [0,0,1,0,0,0,0,0], "bmppl/Yusuke.jpg"],
  
   [1, "KOBAMETAL",                                                 [0,0,0,1,0,0,0,0], "bmppl/Koba.jpg"],
   [1, "Nora",                                                      [0,0,0,1,0,0,0,0], "bmppl/Nora.png"],
