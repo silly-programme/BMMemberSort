@@ -44,7 +44,7 @@
 #fldMiddleT {
 	text-align: center;
 	width: 150px;
-	height: 90px;
+	height: 60px;
 	padding:0px;
 	border: 1px solid #333333;
 	cursor:pointer;
@@ -53,7 +53,16 @@
 #fldMiddleB {
 	text-align: center;
 	width: 150px;
-	height: 90px;
+	height: 60px;
+	padding:0px;
+	border: 1px solid #333333;
+	cursor:pointer;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#fldMiddleB2 {
+	text-align: center;
+	width: 150px;
+	height: 60px;
 	padding:0px;
 	border: 1px solid #333333;
 	cursor:pointer;
