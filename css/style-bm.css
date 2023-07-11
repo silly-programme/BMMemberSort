@@ -29,8 +29,12 @@ a, a:hover {
   font-size: 16px;
 }
 
-#fldMiddleT, #fldMiddleB {
+#fldMiddleT, #fldMiddleB, #fldMiddleB2 {
   border: 1px solid #5F151B;
+}
+
+#fldMiddleT, #fldMiddleB2 {
+  visibility:hidden;
 }
 
 img {
