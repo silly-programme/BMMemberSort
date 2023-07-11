@@ -103,7 +103,7 @@ function startup() {
    new_CheckBox.setAttribute('type', 'checkbox', 0);
    new_CheckBox.setAttribute('checked', 'true', 0);
    new_CheckBox.value = "All";
-   new_CheckBox.title = "All boxes are checked/unchecked at the same time.";
+   new_CheckBox.title = "Check/uncheck all boxes";
    new_CheckBox.id = 'optSelect_all';
    new_CheckBox.onclick = function() {chgAll();}
    new_cell.appendChild(new_CheckBox);
